@@ -2,20 +2,17 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science student, passionate about coding, technology, and continuous learning. I enjoy building both front-end and back-end applications and love diving into new technologies.
+I'm a Chemical Engineering graduate transitioning into a career in Computer Science, passionate about coding, technology, and continuous learning. I enjoy building both front-end and back-end applications and love diving into new technologies. I am currently building with the MERN stack.
 
 - 🌱 I’m currently learning:
-  - `Angular`
+- - `React JS`
+  - `Express JS`
   - `TypeScript`
 - 💼 Open to collaboration on cool and meaningful projects
 - 💬 Ask me anything — I'm happy to help or pair program
 - 🎮 Outside tech:
-  - Love playing video games 🎮
+  - 
   - Enjoy listening to music 🎧
-  - Play musical instruments 🎸
-
-📬 Reach me at: **virajkc1@example.com** *(Replace with your real email)*
-
 ---
 
 ## 🌐 Let's Connect
@@ -23,9 +20,7 @@ I'm a Computer Science student, passionate about coding, technology, and continu
 <p align="left">
   <a href="mailto:virajkc1@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 ---
