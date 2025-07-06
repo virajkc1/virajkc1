@@ -9,18 +9,16 @@ I'm a Chemical Engineering graduate transitioning into a career in Computer Scie
   - `Express JS`
   - `TypeScript`
 - 💼 Open to collaboration on cool and meaningful projects
-- 💬 Ask me anything — I'm happy to help or pair program
+- 💬 Ask me anything — I'm happy to contribute or pair program
 - 🎮 Outside tech:
-  - 
   - Enjoy listening to music 🎧
 ---
 
 ## 🌐 Let's Connect
 
 <p align="left">
-  <a href="mailto:virajkc1@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:virajkc1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/viraj-chapaneri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
