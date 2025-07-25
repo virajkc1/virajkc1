@@ -25,10 +25,10 @@ I'm a Chemical Engineering graduate transitioning into a career in Computer Scie
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=virajkc1&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajkc1&layout=compact&theme=radical" />
-</p>
+#<p align="center">
+ # <img src="https://github-readme-stats.vercel.app/api?username=virajkc1&show_icons=true&theme=radical" />
+  #<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=virajkc1&layout=compact&theme=radical" />
+#</p>
 
 ---
 
