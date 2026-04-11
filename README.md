@@ -2,16 +2,16 @@
 
 ## 🧠 About Me
 
-I'm a Chemical Engineering graduate transitioning into a career in Computer Science, passionate about coding, technology, and continuous learning. I enjoy building both front-end and back-end applications and love diving into new technologies. I am currently building with the MERN stack.
+I'm a Computer Science Student, currently building React Native Mobile Applications, keen interest in mobile development, Agentic AI, System Architecture
+
+Current Project: CAPTO (Skill Bank Application)
 
 - 🌱 I’m currently learning:
-- - `React JS`
-  - `Express JS`
+- - `React Native`
+  - `PostGreSQL`
   - `TypeScript`
-- 💼 Open to collaboration on cool and meaningful projects
-- 💬 Ask me anything — I'm happy to contribute or pair program
-- 🎮 Outside tech:
-  - Enjoy listening to music 🎧
+- 💬 Outside tech:
+  - Chemical Engineering Background
 ---
 
 ## 🌐 Let's Connect
