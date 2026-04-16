@@ -4,7 +4,7 @@
 
 I'm a Computer Science Student, currently building React Native Mobile Applications, keen interest in mobile development, Agentic AI, System Architecture
 
-Current Project: CAPTO (Skill Bank Application)
+Current Project: CAPTO (Skill Bank iOS Application)
 
 - 🌱 I’m currently learning:
 - - `React Native`
