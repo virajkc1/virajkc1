@@ -6,6 +6,9 @@ I'm a Computer Science Student, currently building React Native Mobile Applicati
 
 Current Project: CAPTO (Skill Bank iOS Application)
 
+Prev:
+
+
 - 🌱 I’m currently learning:
 - - `React Native`
   - `PostGreSQL`
